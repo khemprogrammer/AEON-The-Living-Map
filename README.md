@@ -3,7 +3,7 @@
 [![Backend CI](https://img.shields.io/github/actions/workflow/status/OWNER/REPO/backend.yml?branch=main&label=backend%20CI&style=flat-square)](https://github.com/OWNER/REPO/actions)
 [![Node](https://img.shields.io/badge/node-18+-green?style=flat-square&logo=node.js)](#)
 [![Python](https://img.shields.io/badge/python-3.11+-blue?style=flat-square&logo=python)](#)
-[![License](https://img.shields.io/badge/license-Proprietary-orange?style=flat-square)](#)
+[![License](https://img.shields.io/badge/license-Khem-orange?style=flat-square)](#)
 
 AEON turns your life into a living, breathing 3D world. Instead of filling spreadsheets or long journals, you live your life — AEON maps habits, moods, breakthroughs, and relationships into a landscape you can see, explore, and feel.
 
