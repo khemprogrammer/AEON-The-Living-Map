@@ -286,4 +286,4 @@ Notes:
 
 ## License
 
-Proprietary — internal project use.
+Khem Bahadur Lodh
